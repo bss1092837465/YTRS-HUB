@@ -34,6 +34,21 @@ Hi guys this is Iconic_YT your YTRS Nitro Team Captain!
 My youtube channel is @Hyp3rz_ntt!
 The link is here <strike>totally not a rick roll</strike>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">@Hyp3rz_ntt</a>
+If you have any questions or complaints find us here!
+<form action="process.php" method="get">
+  Reason:
+  <p></p>
+  <select name="select">
+    <option value="Payments" />Other</option>
+    <option value="Other" />Payments</option>
+  </select>
+  <p></p>
+  Enter complaint/question here:
+  <p></p>
+  <textarea rows="10" cols="50" name="message_body"  /></teaxtarea>
+<p></p>
+    <inpt type="submit" name="sumbit" value="Send" />
+  </form>
 </body>
 
 
