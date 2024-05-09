@@ -11,12 +11,11 @@ YTRS Hub
 <br>
 <br>
 </body>
-</html>
 
 
 
-    <html>
-<html>
+
+
 <head>
     <title>Login page</title>
 </head>
