@@ -9,6 +9,8 @@ YTRS Hub
 <br>
 <a href="#YTRS Team Info">YTRS Team Info</a> | <a href="#Comps and Payments">Comps and Payments</a> | <a href="#Youtube">Youtube</a> 
 <br>
+YTRS is the top Nitro Type #1 we asre true OG's and grind3rz! Grinders will be rewarded and will be given cash at the end of the week!
+This team is highly trusted and you will eventually get cash if you grind. Offline people could get kicked😢
 <br>
 <h3>YTRS Team Info</h3>
 
