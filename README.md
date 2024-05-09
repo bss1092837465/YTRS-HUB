@@ -1,7 +1,9 @@
 # YTRS-HUB
 YTRS Hub
 <br> 
-<i><b>Hi guys welcome to YTRS!</b><i>
+<h1><i><b>Hi guys welcome to YTRS!</b><i></i>h1>
+
+
 <br>
 <br>
 <a href="#YTRS Team Info">YTRS Team Info</a>
