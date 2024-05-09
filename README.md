@@ -3,7 +3,7 @@ YTRS Hub
 <br> 
 <font color="red"><h1><i><b>Hi guys welcome to YTRS!</b><i></i></h1>
 <h2></h2>
-<body>
+<body bgcolor="#99ccff">
 
 <br>
 <br>
