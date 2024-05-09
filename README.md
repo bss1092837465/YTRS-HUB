@@ -32,7 +32,8 @@ Stay tuned for more cash comps!
 <h4>Youtube</h4>
 Hi guys this is Iconic_YT your YTRS Nitro Team Captain!
 My youtube channel is @Hyp3rz_ntt!
-The link is here <strike>totally not a rick roll</strike>:<a href"https://www.youtube.com/watch?v=dQw4w9WgXcQ">@Hyp3rz_ntt</a>
+The link is here <strike>totally not a rick roll</strike>
+<a href"https://www.youtube.com/watch?v=dQw4w9WgXcQ">@Hyp3rz_ntt</a>
 </body>
 
 
