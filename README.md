@@ -10,6 +10,22 @@ YTRS Hub
 <a href="#YTRS Team Info">YTRS Team Info</a> | <a href="#Comps and Payments">Comps and Payments</a> | <a href="#Youtube">Youtube</a> 
 <br>
 <br>
+<h3>YTRS Team Info</h3>
+
+Hi guys welcome to YTRS which is the team for all OG's and Youtubers!
+We respect all members and strive for loyalty!
+We will not kick anyone without a reason, if you are kicked it might be because you are not grinding.
+<br>
+<br>
+<br>
+<h4>Comps and Payments</h4>
+People that grind will be payed by weeks meaning that you can get at least 100k nitro cash per week. For every 100 extra races you do you will get 50k
+Comps:
+1. 1 mil for 500 team races
+<br>
+<br>
+<br>
+<h4>Youtube</h4>
 </body>
 
 
