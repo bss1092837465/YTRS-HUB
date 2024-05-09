@@ -22,10 +22,15 @@ We will not kick anyone without a reason, if you are kicked it might be because 
 People that grind will be payed by weeks meaning that you can get at least 100k nitro cash per week. For every 100 extra races you do you will get 50k
 Comps:
 1. 1 mil for 500 team races
+Stay tuned for more cash comps!
+<br>
 <br>
 <br>
 <br>
 <h4>Youtube</h4>
+Hi guys this is Iconic_YT your YTRS Nitro Team Captain!
+My youtube channel is @Hyp3rz_ntt!
+The link is here <strike>totally not a rick roll</strike>:
 </body>
 
 
