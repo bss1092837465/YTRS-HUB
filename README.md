@@ -1,7 +1,7 @@
 # YTRS-HUB
 YTRS Hub
 <br> 
-<h1><i><b>Hi guys welcome to YTRS!</b><i></i></h1>
+<font color="red"><h1><i><b>Hi guys welcome to YTRS!</b><i></i></h1></font color="red">
 <h2></h2>
 <body>
 
