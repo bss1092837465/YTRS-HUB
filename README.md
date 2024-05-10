@@ -49,6 +49,7 @@ If you have any questions or complaints find us here!
 <p></p>
     <inpt type="submit" name="sumbit" value="Send" />
   </form>
+    <image src="unnamed.jpg" height="200" width="200"/>
 </body>
 
 
